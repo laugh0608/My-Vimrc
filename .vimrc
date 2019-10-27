@@ -168,9 +168,9 @@ call vundle#begin()
 Plugin 'VundleVim/vundle.vim'
 
 "启用YouCompleteMe插件"
-"Plugin 'Valloric/YouCompleteMe' "
+Plugin 'ycm-core/YouCompleteMe' 
 
-"函数跳转插件“
+"函数跳转插件"
 Plugin 'ludovicchabant/vim-gutentags'
 
 "目录树插件nerdtree"
